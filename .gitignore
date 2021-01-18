@@ -1,2 +1,4 @@
 .DS_Store
 airflowsandbox/*
+airflow/
+logs/
